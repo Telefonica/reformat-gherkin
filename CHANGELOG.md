@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2020-06-30 - Some fixes
+
+### Fixed
+
+- Change how examples are parsed
+
 ## [1.1.0] - 2020-01-25 - Lunar New Year
 
 ### Added
@@ -14,6 +20,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Support for Python 3.8 ([#23](https://github.com/ducminh-phan/reformat-gherkin/pull/23))
 
 - Allow formatting tags on a single line ([#22](https://github.com/ducminh-phan/reformat-gherkin/issues/22))
+
+- Custom tags rules
+
+- Remove duplicated Given When Thens (only for English)
 
 ### Fixed
 
